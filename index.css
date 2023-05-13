@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: rgb(8, 8, 7);
+}
+#about_me {
+  width: 40%;
+  color: rgb(2, 2, 2);
+}
+#front_div {
+  background-color: black;
+  height: 100vh;
+  color: #fff;
+}
+#first_span {
+  color: red;
+}
+#semi_frontdiv {
+  float: left;
+  margin-top: 20%;
+  text-align: center;
+  margin-left: 20%;
+  line-height: 3rem;
+}
+#home_span {
+  color: lightgreen;
+}
+#front_h3 {
+  font-size: 2rem;
+}
+#front_name {
+  font-size: 4rem;
+  font-family: "Times New Roman";
+  text-transform: uppercase;
+}
+#front_image {
+  width: 20%;
+  height: 20rem;
+  float: right;
+  margin-right: 25%;
+  margin-top: 15%;
+  border-radius: 25px;
+}
+.div_landing {
+  background-color: #fff;
+  height: 100vh;
+  width: 100%;
+}
+#logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+#second_image {
+  width: 20%;
+  height: 20rem;
+  border-radius: 25px;
+}
+#calculator_section {
+  height: 100vh;
+  background-color: pink;
+}
+#twitter_ver {
+  width: 1rem;
+  height: 1rem;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: blue;
+}
+#front_image:hover {
+  width: 3rem;
+  height: 3rem;
+}
+
+.reda:hover {
+  color: black;
+}
+#firt_ul {
+  list-style-type: none;
+  display: inline-block;
+  display: flex;
+  float: right;
+  margin: 1rem;
+}
+.first_list {
+  margin: 1rem;
+}
